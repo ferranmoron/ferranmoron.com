@@ -1,0 +1,47 @@
+[more]
+other = "Més"
+
+[allTitle]
+other = "Tots els {{.Title }}"
+
+[recentTitle]
+other = "{{.Title }} recents"
+
+[readMore]
+other = "Llegir més"
+
+[whatsInThis]
+other = "Què hi ha en aquest {{ .Type }}"
+
+[related]
+other = "Relacionat"
+
+[yourName]
+other = "Nom"
+
+[emailAddress]
+other = "Correu electrònic"
+
+[message]
+other = "Missatge"
+
+[emailRequiredNote]
+other = "Cal un correu electrònic"
+
+[send]
+other = "Enviar"
+
+[knowMore]
+other = "Saber més"
+
+[categories]
+other = "Categories"
+
+[tags]
+other = "Etiquetes"
+
+[contact]
+other = "Contacte"
+
+[subject]
+other = "Assumpte"
