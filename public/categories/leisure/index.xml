@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>leisure on Ferran Moron Faura</title>
+    <link>https://www.ferranmoron.com/categories/leisure/</link>
+    <description>Recent content in leisure on Ferran Moron Faura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca</language>
+    <lastBuildDate>Mon, 06 Aug 2007 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.ferranmoron.com/categories/leisure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gouffre du Padirac i Rocamadour</title>
+      <link>https://www.ferranmoron.com/blog/gouffre-padirac-rocamadour/</link>
+      <pubDate>Mon, 06 Aug 2007 10:07:47 +0600</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/gouffre-padirac-rocamadour/</guid>
+      <description>Una altra excursió doble. Aquesta vegada hem matinat molt. Hem sortit a les 8 del matí per arribar ben d’hora a la Gouffre du Padirac.</description>
+    </item>
+    
+    <item>
+      <title>Phosphatiere i llac de Moulin du Bannac</title>
+      <link>https://www.ferranmoron.com/blog/phosphatiere-lac-moulin-bannac/</link>
+      <pubDate>Sat, 04 Aug 2007 10:07:47 +0600</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/phosphatiere-lac-moulin-bannac/</guid>
+      <description>Avui hem fet dues visites per aprofitar el viatge. En primer lloc, la Phosphatière de Bach i després de dinar, el llac del Moulin du Bannac.</description>
+    </item>
+    
+    <item>
+      <title>Bouziés – Saint Cirq Lapopie</title>
+      <link>https://www.ferranmoron.com/blog/bouzies-saint-cirq-lapopie/</link>
+      <pubDate>Wed, 01 Aug 2007 10:07:47 +0600</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/bouzies-saint-cirq-lapopie/</guid>
+      <description>Comencem aquest blog des del càmping de La Cheneraie. Es tracta d’un càmping situat prop de la població de Vers, a la vall de Lot, a França.</description>
+    </item>
+    
+    <item>
+      <title>De l&#39;Empordà a la vall del Lot</title>
+      <link>https://www.ferranmoron.com/blog/emporda-vall-del-lot/</link>
+      <pubDate>Sun, 29 Jul 2007 10:07:47 +0600</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/emporda-vall-del-lot/</guid>
+      <description>Com cada any ens hem estat uns dies al càmping Relax GE, al costat de Mont-Ras, a l&amp;rsquo;Empordà.</description>
+    </item>
+    
+  </channel>
+</rss>

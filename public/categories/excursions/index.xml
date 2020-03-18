@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>excursions on Blog personal de Ferran Moron Faura</title>
+    <link>https://www.ferranmoron.com/categories/excursions/</link>
+    <description>Recent content in excursions on Blog personal de Ferran Moron Faura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca</language>
+    <lastBuildDate>Mon, 06 Aug 2007 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.ferranmoron.com/categories/excursions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gouffre du Padirac i Rocamadour</title>
+      <link>https://www.ferranmoron.com/blog/gouffre-padirac-rocamadour/</link>
+      <pubDate>Mon, 06 Aug 2007 10:07:47 +0600</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/gouffre-padirac-rocamadour/</guid>
+      <description>Una altra excursió doble. Aquesta vegada hem matinat molt. Hem sortit a les 8 del matí per arribar ben d’hora a la Gouffre du Padirac.</description>
+    </item>
+    
+    <item>
+      <title>Caiac al riu Célé</title>
+      <link>https://www.ferranmoron.com/blog/caiac-riu-cele-lot/</link>
+      <pubDate>Sun, 05 Aug 2007 10:07:47 +0600</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/caiac-riu-cele-lot/</guid>
+      <description>Els més agosarats (adults i nens majors de 6 anys) decidim anar a fer caiac.</description>
+    </item>
+    
+    <item>
+      <title>Phosphatiere i llac de Moulin du Bannac</title>
+      <link>https://www.ferranmoron.com/blog/phosphatiere-lac-moulin-bannac/</link>
+      <pubDate>Sat, 04 Aug 2007 10:07:47 +0600</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/phosphatiere-lac-moulin-bannac/</guid>
+      <description>Avui hem fet dues visites per aprofitar el viatge. En primer lloc, la Phosphatière de Bach i després de dinar, el llac del Moulin du Bannac.</description>
+    </item>
+    
+    <item>
+      <title>BTT per la vall del Lot</title>
+      <link>https://www.ferranmoron.com/blog/btt-vall-del-lot/</link>
+      <pubDate>Fri, 03 Aug 2007 10:07:47 +0600</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/btt-vall-del-lot/</guid>
+      <description>I qui deia que no es podia anar en bicicleta per la vall de Lot?</description>
+    </item>
+    
+  </channel>
+</rss>

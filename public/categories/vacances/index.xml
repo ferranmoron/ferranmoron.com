@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vacances on Blog personal de Ferran Moron Faura</title>
+    <link>https://www.ferranmoron.com/categories/vacances/</link>
+    <description>Recent content in vacances on Blog personal de Ferran Moron Faura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca</language>
+    <lastBuildDate>Wed, 01 Aug 2007 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.ferranmoron.com/categories/vacances/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bouziés – Saint Cirq Lapopie</title>
+      <link>https://www.ferranmoron.com/blog/bouzies-saint-cirq-lapopie/</link>
+      <pubDate>Wed, 01 Aug 2007 10:07:47 +0600</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/bouzies-saint-cirq-lapopie/</guid>
+      <description>Comencem aquest blog des del càmping de La Cheneraie. Es tracta d’un càmping situat prop de la població de Vers, a la vall de Lot, a França.</description>
+    </item>
+    
+    <item>
+      <title>De l&#39;Empordà a la vall del Lot</title>
+      <link>https://www.ferranmoron.com/blog/emporda-vall-del-lot/</link>
+      <pubDate>Sun, 29 Jul 2007 10:07:47 +0600</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/emporda-vall-del-lot/</guid>
+      <description>Com cada any ens hem estat uns dies al càmping Relax GE, al costat de Mont-Ras, a l&amp;rsquo;Empordà.</description>
+    </item>
+    
+  </channel>
+</rss>
