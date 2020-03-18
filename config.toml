@@ -1,0 +1,193 @@
+######################## default configuration ####################
+baseURL = "https://www.ferranmoron.com"
+languageCode = "ca"
+theme = "liva-hugo"
+summaryLength = "10"
+paginate = 10
+disqusShortname = ""
+DefaultContentLanguage = "ca"
+
+[languages]
+  [languages.ca]
+    title = "Ferran Moron Faura"
+    languageCode = "ca"
+    weight = 1
+    description = "Blog personal de Ferran Moron Faura, opinions, vivències i experiències"
+    LanguageName = "CA"
+  [languages.es]
+    title = "Ferran Moron Faura"
+    languageCode = "es"
+    weight = 2
+    description = "Blog personal de Ferran Moron Faura, opiniones, vivencias y experiencias"
+    LanguageName = "ES"
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+  
+############################## navigation ###############################
+[menu]
+  
+    # main menu
+
+    [[languages.ca.menu.main]]
+    name = "Inici"
+    URL = "/"
+    weight = 1
+
+    [[languages.es.menu.main]]
+    name = "Inicio"
+    URL = "/es/"
+    weight = 1
+
+    [[languages.ca.menu.main]]
+    name = "Sobre mi"
+    URL = "about"
+    weight = 3
+
+    [[languages.ca.menu.main]]
+    name = "Blog"
+    URL = "blog"
+    weight = 4
+
+    [[languages.ca.menu.main]]
+    name = "Contacte"
+    URL = "contact"
+    weight = 5
+
+    [[languages.ca.menu.main]]
+    url    = "/es/"
+    name   = "ES"
+    weight = 6
+
+    [[languages.es.menu.main]]
+    url    = "/"
+    name   = "CA"
+    weight = 6
+
+
+    # footer menu
+    [[languages.ca.menu.footer]]
+    name = "Sobre mi"
+    URL = "about"
+    weight = 1
+
+    [[languages.ca.menu.footer]]
+    name = "Blog"
+    URL = "blog"
+    weight = 2
+
+    [[languages.ca.menu.footer]]
+    name = "Contacte"
+    URL = "contact"
+    weight = 3
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+home = "Home"
+# Meta data
+author = "Ferran Moron"
+# Google Analitycs
+googleAnalitycsID = "UA-52162491-1"
+# Contact Information
+mobile = ""
+email = ""
+location = "Barcelona"
+# copyright
+copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved |"
+
+############################# Plugins ##############################
+[params.plugins]
+
+    # CSS Plugins
+    [[params.plugins.css]]
+    URL = "plugins/bootstrap/bootstrap.min.css"
+    [[params.plugins.css]]
+    URL = "plugins/slick/slick.css"
+    [[params.plugins.css]]
+    URL = "plugins/themify-icons/themify-icons.css"
+    [[params.plugins.css]]
+    URL = "plugins/venobox/venobox.css"
+
+    # JS Plugins
+    [[params.plugins.js]]
+    URL = "plugins/jQuery/jquery.min.js"
+    [[params.plugins.js]]
+    URL = "plugins/bootstrap/bootstrap.min.js"
+    [[params.plugins.js]]
+    URL = "plugins/slick/slick.min.js"
+    [[params.plugins.js]]
+    URL = "plugins/venobox/venobox.min.js"
+    [[params.plugins.js]]
+    URL = "plugins/search/fuse.min.js"
+    [[params.plugins.js]]
+    URL = "plugins/search/mark.js"
+    [[params.plugins.js]]
+    URL = "plugins/search/search.js"
+
+    # Preloader
+    [params.preloader]
+    enable = true
+    preloader = "" # use .png , .svg or .gif format
+
+    # search
+    [params.search]
+    enable = true
+
+    ############################ news letter ########################
+    [params.newsletter]
+    enable = false
+    title = "Join Our Newsletter"
+    content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+
+    ############################# social site ########################
+    [[params.social]]
+    title = "facebook"
+    icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+    link = "https://www.facebook.com/ferranmoron"
+
+    [[params.social]]
+    title = "twitter"
+    icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+    link = "https://twitter.com/ferranmoron"
+
+    [[params.social]]
+    title = "instagram"
+    icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+    link = "https://www.instagram.com/ferranmoron/"
+
+    [[params.social]]
+    title = "github"
+    icon = "ti-github" # themify icon : https://themify.me/themify-icons
+    link = "https://github.com/ferranmoron"
+
+    [[params.social]]
+    title = "linkedin"
+    icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+    link = "https://www.linkedin.com/in/ferranmoron/"
+
+[deployment]
+order = [".jpg$", ".gif$", ".png$"]
+
+    [[deployment.targets]]
+    name = "ferranmoron"
+    URL = "s3://www.ferranmoron.com?region=eu-west-3"
+    # If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
+    cloudFrontDistributionID = "ENYDBGXC2QZQQ"
+
+    [[deployment.matchers]]
+    pattern = "^.+\\.(js|css|svg|ttf)$"
+    cacheControl = "max-age=31536000, no-transform, public"
+    gzip = true
+
+    [[deployment.matchers]]
+    pattern = "^.+\\.(png|jpg|gif)$"
+    cacheControl = "max-age=31536000, no-transform, public"
+    gzip = false
+
+    [[deployment.matchers]]
+    pattern = "^.+\\.(html|xml|json)$"
+    gzip = true
