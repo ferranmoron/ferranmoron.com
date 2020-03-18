@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>work on Ferran Moron Faura</title>
+    <link>https://www.ferranmoron.com/categories/work/</link>
+    <description>Recent content in work on Ferran Moron Faura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca</language>
+    <lastBuildDate>Tue, 17 Mar 2020 17:32:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.ferranmoron.com/categories/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Donar sang #dia2</title>
+      <link>https://www.ferranmoron.com/blog/coronavirus-sonar-sang/</link>
+      <pubDate>Tue, 17 Mar 2020 17:32:00 +0100</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/coronavirus-sonar-sang/</guid>
+      <description>Avui, segon dia laboral de confinament, he fet alguna cosa diferent.</description>
+    </item>
+    
+    <item>
+      <title>Confinament i teletreball pel coronavirus #dia1</title>
+      <link>https://www.ferranmoron.com/blog/coronavirus-teletreball-confinament/</link>
+      <pubDate>Mon, 16 Mar 2020 15:00:00 +0100</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/coronavirus-teletreball-confinament/</guid>
+      <description>Es fa estrany escriure aquestes línies en aquests dies tan complicats.</description>
+    </item>
+    
+    <item>
+      <title>Canvi de rumb</title>
+      <link>https://www.ferranmoron.com/blog/canvi-de-rumb/</link>
+      <pubDate>Tue, 21 Jun 2011 07:54:00 +0200</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/canvi-de-rumb/</guid>
+      <description>Avui m&amp;rsquo;han informat de canvis a l&amp;rsquo;empresa a la CCMA. A partir d&amp;rsquo;ara treballaré només de dissenyador - maquetador - desenvolupador web.</description>
+    </item>
+    
+  </channel>
+</rss>
