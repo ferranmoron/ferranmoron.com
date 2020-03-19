@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bike on Ferran Moron Faura</title>
+    <link>https://www.ferranmoron.com/tags/bike/</link>
+    <description>Recent content in bike on Ferran Moron Faura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca</language>
+    <lastBuildDate>Fri, 03 Aug 2007 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.ferranmoron.com/tags/bike/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BTT per la vall del Lot</title>
+      <link>https://www.ferranmoron.com/blog/btt-vall-del-lot/</link>
+      <pubDate>Fri, 03 Aug 2007 10:07:47 +0600</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/btt-vall-del-lot/</guid>
+      <description>I qui deia que no es podia anar en bicicleta per la vall de Lot?</description>
+    </item>
+    
+  </channel>
+</rss>
