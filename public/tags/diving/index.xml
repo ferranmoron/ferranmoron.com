@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diving on Ferran Moron Faura</title>
+    <link>https://www.ferranmoron.com/tags/diving/</link>
+    <description>Recent content in diving on Ferran Moron Faura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca</language>
+    <lastBuildDate>Mon, 04 Jul 2011 19:26:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.ferranmoron.com/tags/diving/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Immersió a Roses</title>
+      <link>https://www.ferranmoron.com/blog/immersio-roses/</link>
+      <pubDate>Mon, 04 Jul 2011 19:26:00 +0200</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/immersio-roses/</guid>
+      <description>L&amp;rsquo;objectiu era fer un bateig de submarinisme a Roses, amb la possibilitat de veure moltes coses i no fer-ho en una piscina.</description>
+    </item>
+    
+  </channel>
+</rss>

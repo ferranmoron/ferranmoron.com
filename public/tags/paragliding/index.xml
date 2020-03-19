@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paragliding on Ferran Moron Faura</title>
+    <link>https://www.ferranmoron.com/tags/paragliding/</link>
+    <description>Recent content in paragliding on Ferran Moron Faura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca</language>
+    <lastBuildDate>Tue, 21 Jun 2011 07:54:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.ferranmoron.com/tags/paragliding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Parapent a Organyà</title>
+      <link>https://www.ferranmoron.com/blog/parapent-organya/</link>
+      <pubDate>Tue, 21 Jun 2011 07:54:00 +0200</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/parapent-organya/</guid>
+      <description>El meu fill Oriol s&amp;rsquo;ha estrenat avui en el món del parapent de la mà del seu tiet Ricard qui li ha fet un fantàstic vol en biplaça a Organyà.</description>
+    </item>
+    
+    <item>
+      <title>Adéu, Guti</title>
+      <link>https://www.ferranmoron.com/blog/adeu-guti/</link>
+      <pubDate>Mon, 22 May 2006 14:52:00 +0200</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/adeu-guti/</guid>
+      <description>Quina merda! Diumenge ens va deixar el nostre amic i company de vol, Jordi Gutiérrez.</description>
+    </item>
+    
+  </channel>
+</rss>

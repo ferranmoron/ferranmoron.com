@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kayak on Ferran Moron Faura</title>
+    <link>https://www.ferranmoron.com/tags/kayak/</link>
+    <description>Recent content in kayak on Ferran Moron Faura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca</language>
+    <lastBuildDate>Sun, 05 Aug 2007 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.ferranmoron.com/tags/kayak/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Caiac al riu Célé</title>
+      <link>https://www.ferranmoron.com/blog/caiac-riu-cele-lot/</link>
+      <pubDate>Sun, 05 Aug 2007 10:07:47 +0600</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/caiac-riu-cele-lot/</guid>
+      <description>Els més agosarats (adults i nens majors de 6 anys) decidim anar a fer caiac.</description>
+    </item>
+    
+  </channel>
+</rss>

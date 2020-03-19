@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>montserrat on Ferran Moron Faura</title>
+    <link>https://www.ferranmoron.com/tags/montserrat/</link>
+    <description>Recent content in montserrat on Ferran Moron Faura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca</language>
+    <lastBuildDate>Wed, 22 Aug 2007 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.ferranmoron.com/tags/montserrat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Escalada amb en Jan Vives a Montserrat</title>
+      <link>https://www.ferranmoron.com/blog/escalada-jan-ferran-montserrat/</link>
+      <pubDate>Wed, 22 Aug 2007 10:07:47 +0600</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/escalada-jan-ferran-montserrat/</guid>
+      <description>Això és una prova amb foto</description>
+    </item>
+    
+  </channel>
+</rss>

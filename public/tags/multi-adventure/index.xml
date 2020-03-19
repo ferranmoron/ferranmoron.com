@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multi-adventure on Ferran Moron Faura</title>
+    <link>https://www.ferranmoron.com/tags/multi-adventure/</link>
+    <description>Recent content in multi-adventure on Ferran Moron Faura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca</language>
+    <lastBuildDate>Tue, 21 Jun 2011 07:54:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.ferranmoron.com/tags/multi-adventure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Desman 2011</title>
+      <link>https://www.ferranmoron.com/blog/desman-2011/</link>
+      <pubDate>Tue, 21 Jun 2011 07:54:00 +0200</pubDate>
+      
+      <guid>https://www.ferranmoron.com/blog/desman-2011/</guid>
+      <description>Cap de setmana intens. Amb l&amp;rsquo;equip del departament d&amp;rsquo;esports de TV3 hem tornat a participar a la competició pirinenca entre empreses Desman.</description>
+    </item>
+    
+  </channel>
+</rss>
