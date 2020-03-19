@@ -316,9 +316,11 @@
 
   a {
     color: $primary-color;
+    border-bottom: 1px dotted;
 
     &:hover {
-      text-decoration: underline;
+      //text-decoration: underline;
+      border-bottom: 1px solid;
     }
   }
 
