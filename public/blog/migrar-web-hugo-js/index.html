@@ -176,16 +176,19 @@
 <p>Pel tema del hosting, vaig decidir experimentar amb <a href="https://aws.amazon.com/">AWS</a> (Amazon Web Services). La primera vegada que hi arribes tot sembla molt complicat. Per començar, has de crear un compte AWS per accedir a totes les funcionalitats.</p>
 <p>En el meu cas he fet servir:</p>
 <ul>
-<li>S3 per allotjar les pàgines estàtiques</li>
-<li>Cloudfront per publicar el site</li>
-<li>Certificate Manager pel tema del https</li>
-<li>Route 53 pel domini</li>
+<li><strong>S3</strong> per allotjar les pàgines estàtiques</li>
+<li><strong>Cloudfront</strong> per publicar el site</li>
+<li><strong>Certificate Manager</strong> pel tema del https</li>
+<li><strong>Route 53</strong> pel registre del domini</li>
 </ul>
-<p>No és difícil però has d&rsquo;anar seguint molt bé tots els tutorials propis d&rsquo;AWS i algun vídeo de Youtube amb instruccions com aquest <a href="https://youtu.be/uwgB_sIhIko">Hosting a static website with HTTPS on an S3 bucket</a>.</p>
+<p>No és difícil però cal anar seguint molt bé tots els tutorials propis d&rsquo;AWS i algun vídeo de Youtube amb instruccions com aquest <a href="https://youtu.be/uwgB_sIhIko">Hosting a static website with HTTPS on an S3 bucket</a>.</p>
 <h2 id="publicació">Publicació</h2>
 <p>En aquest punt vaig estar fent recerca i finalment, gràcies al consell del meu company <a href="https://www.linkedin.com/in/joan-ribas/">Joan Ribas</a>, vaig decidir-me per fer servir <a href="https://gohugo.io/">Hugo</a>. Vaig estar mirant també <a href="https://www.gatsbyjs.org/">GatsbyJS</a> i potser ho faré servir en algun altre projecte.</p>
 <p>La veritat és que va ser molt senzill. Permet diferents idiomes sense cap complicació i es poden fer <em>partials</em> i modificar mòduls i templates. Ho desenvolupes tot en local i després fas el desplegament a Producció. En el meu cas, ho vaig connectar amb AWS i va ser molt senzill veure-ho tot funcionant com estava previst.</p>
 <p>Molt recomanable. Encara he d&rsquo;anar aprenent com funciona. Ja aniré explicant l&rsquo;evolució del tema més endavant.</p>
+<h2 id="migrar-des-de-wordpress">Migrar des de Wordpress</h2>
+<p>Si teniu la web a <strong>Wordpress</strong>, podeu fer servir un plugin per <a href="https://github.com/SchumacherFM/wordpress-to-hugo-exporter" title="Wordpress to Hugo exporter">exportar de WP a Hugo</a> que funciona força bé. He hagut de desactivar el plugin qTranslate perquè donava algun problema. Es genera un zip amb totes les pàgines i posts.</p>
+<p>Si veniu d&rsquo;algun altre gestor de continguts, podeu consultar la <a href="https://gohugo.io/tools/migrations/" title="Migrate to Hugo">pàgina d&rsquo;ajuda per migracions a Hugo</a>.</p>
 
         </div><ul class="tags">
   
