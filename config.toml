@@ -20,6 +20,12 @@ DefaultContentLanguage = "ca"
     weight = 2
     description = "Blog personal de Ferran Moron Faura, opiniones, vivencias y experiencias"
     LanguageName = "ES"
+  [languages.en]
+    title = "Ferran Moron Faura"
+    languageCode = "en"
+    weight = 3
+    description = "Personal Blog of Ferran Moron Faura"
+    LanguageName = "EN"
 
 
 [outputs]
@@ -43,7 +49,7 @@ DefaultContentLanguage = "ca"
 
     [[languages.ca.menu.main]]
     name = "Sobre mi"
-    URL = "about"
+    URL = "sobre-mi"
     weight = 3
 
     [[languages.ca.menu.main]]
@@ -53,7 +59,7 @@ DefaultContentLanguage = "ca"
 
     [[languages.ca.menu.main]]
     name = "Contacte"
-    URL = "contact"
+    URL = "contacte"
     weight = 5
 
     [[languages.ca.menu.main]]
@@ -66,11 +72,25 @@ DefaultContentLanguage = "ca"
     name   = "CA"
     weight = 6
 
+    [[languages.en.menu.main]]
+    url    = "/"
+    name   = "CA"
+    weight = 6
+
+    [[languages.ca.menu.main]]
+    url    = "/es/"
+    name   = "ES"
+    weight = 6
+
+    [[languages.en.menu.main]]
+    url    = "/en/"
+    name   = "EN"
+    weight = 6
 
     # footer menu
     [[languages.ca.menu.footer]]
     name = "Sobre mi"
-    URL = "about"
+    URL = "sobre-mi"
     weight = 1
 
     [[languages.ca.menu.footer]]
@@ -80,8 +100,13 @@ DefaultContentLanguage = "ca"
 
     [[languages.ca.menu.footer]]
     name = "Contacte"
-    URL = "contact"
+    URL = "contacte"
     weight = 3
+
+    [[languages.ca.menu.footer]]
+    name = "About me"
+    URL = "/en/about/"
+    weight = 4
 
 
 #################### default parameters ################################
