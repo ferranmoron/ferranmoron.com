@@ -32,6 +32,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://www.ferranmoron.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="es"
                 href="https://www.ferranmoron.com/es/categories/"
                 />
@@ -44,6 +49,11 @@
                 rel="alternate"
                 hreflang="ca"
                 href="https://www.ferranmoron.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ferranmoron.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -69,6 +79,11 @@
                 rel="alternate"
                 hreflang="ca"
                 href="https://www.ferranmoron.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ferranmoron.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"

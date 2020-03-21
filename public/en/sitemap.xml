@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.ferranmoron.com/en/about/</loc>
+    <lastmod>2020-03-16T13:49:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ferranmoron.com/en/</loc>
+    <lastmod>2020-03-16T13:49:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://www.ferranmoron.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.ferranmoron.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ferranmoron.com/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.ferranmoron.com/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://www.ferranmoron.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.ferranmoron.com/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ferranmoron.com/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.ferranmoron.com/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://www.ferranmoron.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.ferranmoron.com/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ferranmoron.com/en/tags/"
+                />
+  </url>
+  
+</urlset>
