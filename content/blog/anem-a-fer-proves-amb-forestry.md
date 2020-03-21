@@ -2,7 +2,7 @@
 categories = ["webdev"]
 date = 2020-03-18T23:00:00Z
 description = "Prova d'integració d'un CMS estàtic amb Git"
-image = "/uploads/forestry.jpg"
+image = "/images/forestry.jpg"
 tags = ["cms"]
 title = "Anem a fer proves amb el CMS Forestry"
 type = "top3"
