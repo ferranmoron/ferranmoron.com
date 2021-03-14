@@ -2,7 +2,6 @@
 categories = []
 date = 2021-03-13T23:00:00Z
 description = "Avalució de l'últim any de pandèmia per la Covid19"
-draft = true
 image = ""
 tags = ["covid"]
 title = "Un any més tard..."
